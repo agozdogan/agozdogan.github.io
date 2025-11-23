@@ -2,7 +2,7 @@
 layout: post
 title:  "Kabarcık Sıralama (Bubble Sort): Yeni Başlayanlar için Rehber"
 date:   2025-11-22 12:00:00 +0700
-categories: [algorithms, python]
+categories: [python]
 ---
 
 Kabarcık sıralama (Bubble Sort) algoritması, sıralama algoritmaları arasında en temel ve anlaşılması kolay olanlardan biridir. Bu yazıda kabarcık sıralamanın nasıl çalıştığını, zaman/alan karmaşıklığını, iyileştirme yollarını ve örnek uygulamalarını Türkçe olarak göreceksiniz.
