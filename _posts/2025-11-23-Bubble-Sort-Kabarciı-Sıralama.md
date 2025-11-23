@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kabarcık Sıralama (Bubble Sort): Yeni Başlayanlar için Rehber"
-date:   2025-11-23 12:00:00 +0700
+date:   2025-11-22 12:00:00 +0700
 categories: [algorithms, python]
 ---
 
@@ -107,4 +107,4 @@ Kabarcık sıralama genellikle eğitim amaçlı ve algoritma mantığını öğr
 
 Kabarcık sıralama, algoritma öğrenmeye başlayanlar için harika bir başlangıçtır: mantığı basittir, görselleştirmesi kolaydır ve temel kavramları (karşılaştırma, swap, döngüler) öğretir. Yine de performans ihtiyaçlarınız varsa daha gelişmiş sıralama algoritmalarını öğrenmeniz önerilir.
 
-İsterseniz bu yazıya görseller, interaktif JS görselleştirme veya adım adım animasyon ekleyebilirim — nasıl ilerlemek istersiniz?
+
