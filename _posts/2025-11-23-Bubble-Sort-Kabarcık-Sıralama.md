@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kabarcık Sıralama (Bubble Sort): Yeni Başlayanlar için Rehber"
-date:   2025-11-22 12:00:00 +0700
+date:   2025-11-23 12:00:00 +0300
 categories: [python]
 ---
 
