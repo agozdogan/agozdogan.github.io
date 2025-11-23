@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am me.
+I am me. GO
 
 email: agozdogan[at]gmail.com
