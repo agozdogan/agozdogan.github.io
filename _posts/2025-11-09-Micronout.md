@@ -5,7 +5,7 @@ date:   2025-11-09 14:25:20 +0700
 categories: [python, django]
 ---
 
-Web geliştirme dünyasında sürekli olarak yeni framework'ler ve araçlar ortaya çıkıyor. Bu yazıda, modern web uygulamaları geliştirme sürecini basitleştiren **Micronout Framework**'ü inceleyeceğiz.
+Web geliştirme dünyasında sürekli olarak yeni framework'ler ve araçlar ortaya çıkıyor. Bu yazıda, modern web uygulamaları geliştirme sürecini basitleştiren **Micronout Framework**'ü inceleyeceğiz.Yessss
 
 ## Micronout Framework Nedir?
 
