@@ -106,5 +106,28 @@ Kabarcık sıralama genellikle eğitim amaçlı ve algoritma mantığını öğr
 ## Sonuç
 
 Kabarcık sıralama, algoritma öğrenmeye başlayanlar için harika bir başlangıçtır: mantığı basittir, görselleştirmesi kolaydır ve temel kavramları (karşılaştırma, swap, döngüler) öğretir. Yine de performans ihtiyaçlarınız varsa daha gelişmiş sıralama algoritmalarını öğrenmeniz önerilir.
+## Görsel ve Adım Adım Animasyon
+
+Aşağıdaki görsel, kabarcık sıralama algoritmasının adımlarını görsel olarak gösterir. "Karıştır" ile rastgele bir dizi oluşturabilir, "Başlat" ile adım adım animasyonu izleyebilir ve hız ayarı ile animasyon hızını değiştirebilirsiniz.
+
+<style>
+#bubble-visual { display:flex; align-items:flex-end; gap:6px; height:220px; border:1px solid #eee; padding:12px; margin-top:12px; background:#fafafa }
+.bs-bar { width:18px; background:#4aa3ff; transition:height 0.35s ease, background 0.25s; border-radius:3px; }
+.bs-compare{ background:#ffca28 !important; }
+.bs-swap{ background:#ff7043 !important; }
+.bs-done{ background:#66bb6a !important; opacity:0.95; }
+.bs-controls{ margin-top:10px; display:flex; gap:10px; align-items:center; }
+.bs-controls button, .bs-controls input[type=range]{ cursor:pointer }
+</style>
+
+<div class="bs-controls">
+  <button id="bs-shuffle">Karıştır</button>
+  <button id="bs-start">Başlat</button>
+  <label style="font-size:0.9em">Hız: <input id="bs-speed" type="range" min="50" max="800" value="200"></label>
+</div>
+
+<div id="bubble-visual" aria-label="Bubble sort visualization"></div>
+
+<script src="{{ '/static/js/bubble-sort-visual.js' | relative_url }}"></script>
 
 
